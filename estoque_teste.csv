@@ -1,0 +1,13 @@
+ID,Nome,Descricao,Preco unitario,Quantidade,Valor em estoque
+001,caneta,bic,1.2,100.0,120.0
+002,lapis,faber,0.65,40.0,26.0
+003,lapiseira,cis,10.0,10.0,100.0
+004,borracha,mercur,2.0,20.0,40.0
+005,papel,chamex,25.0,30.0,750.0
+006,tesoura,tramontina,13.0,14.0,182.0
+007,grampeador,jocar,11.0,26.0,286.0
+008,grampo,metal,1.0,34.0,34.0
+009,adesivo,copa do mundo,3.0,22.0,66.0
+011,marca texto,cis,5.0,11.0,55.0
+012,corretivo,cis,7.0,3.0,21.0
+013,cartolina,100x60,1.2,32.0,38.4
